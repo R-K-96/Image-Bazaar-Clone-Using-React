@@ -4,7 +4,7 @@ import axios from 'axios';
 
 function SearchImages({addImages}) {
 
-    let [searchTerm,setSearchTerm] = useState("nature")
+    let [searchTerm,setSearchTerm] = useState("")
 
     // console.log("Access key:",process.env.REACT_APP_ACCESS_KEY);
     
@@ -26,6 +26,7 @@ function SearchImages({addImages}) {
 
     function reset(){
         setSearchTerm("")
+        addImages([])
     }
 
     
