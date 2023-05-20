@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Image-Bazaar-Clone-Using-React/static/css/main.02b89165.css",
-    "main.js": "/Image-Bazaar-Clone-Using-React/static/js/main.9c156f09.js",
+    "main.js": "/Image-Bazaar-Clone-Using-React/static/js/main.14575639.js",
     "index.html": "/Image-Bazaar-Clone-Using-React/index.html",
     "main.02b89165.css.map": "/Image-Bazaar-Clone-Using-React/static/css/main.02b89165.css.map",
-    "main.9c156f09.js.map": "/Image-Bazaar-Clone-Using-React/static/js/main.9c156f09.js.map"
+    "main.14575639.js.map": "/Image-Bazaar-Clone-Using-React/static/js/main.14575639.js.map"
   },
   "entrypoints": [
     "static/css/main.02b89165.css",
-    "static/js/main.9c156f09.js"
+    "static/js/main.14575639.js"
   ]
 }
